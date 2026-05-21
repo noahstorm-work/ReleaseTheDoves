@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://release-the-doves.vercel.app/sitemap.xml
